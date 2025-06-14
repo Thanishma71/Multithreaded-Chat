@@ -17,6 +17,7 @@ Description: This project is a multithreaded chat application built using Java t
 
 OutPut:
 
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/0f9aa635-abc1-4596-a942-7a24b432b4bb" />
 
 
 
